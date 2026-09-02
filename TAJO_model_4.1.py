@@ -9,8 +9,7 @@ import streamlit as st
 # ==========================================
 st.set_page_config(page_title="TAJO: Caribbean Coral Reef Model", layout="wide")
 
-st.title("🌊 CSI Koraalrif: Caribisch Ecosysteem Model")
-st.caption("Mechanistisch koraalrifmodel.")
+st.title("Caribisch Koraal Ecosysteem Model")
 
 col1, col2 = st.columns([1, 2])
 
