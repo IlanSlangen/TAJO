@@ -10,7 +10,7 @@ import streamlit as st
 st.set_page_config(page_title="TAJO: Caribbean Coral Reef Model", layout="wide")
 
 st.title("🌊 CSI Koraalrif: Caribisch Ecosysteem Model")
-st.caption("Mechanistisch koraalrifmodel met 3D habitat-schuilplaatseffecten en strikte ruimte-begrenzing.")
+st.caption("Mechanistisch koraalrifmodel.")
 
 col1, col2 = st.columns([1, 2])
 
